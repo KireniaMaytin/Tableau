@@ -1,5 +1,5 @@
 # Tableau
-Welcome to my Data Analytics portfolio! Here you will find my Tableau projects.
+Welcome to my Tableau projects!
 
 **The Gamers' Arena Project**
 
